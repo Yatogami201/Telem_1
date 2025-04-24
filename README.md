@@ -1,7 +1,12 @@
 # Proyecto 1 - Telemática: Aplicación de Chat
 
 ## Ejecución
-Para descartar problemas de ejecución, utilice los archivos dentro de la carpeta Vbox Code, dentro estarán los main.c del servidor y el cliente preparado para conectarse a AWS.
+1. Descargue el repositorio
+2. Dirijase a la carpeta Vbox Code y luego a la carpeta SocketClient
+3. Haga click derecho y seleccione la opición Abrir en terminal
+4. Una vez en la terminal ejecute el archivo main.c con el comando ./main
+
+
 ## Video: https://youtu.be/QTTMTcs-n1c
 
 ## Introducción
