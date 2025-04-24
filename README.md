@@ -1,5 +1,8 @@
 # Proyecto 1 - Telemática: Aplicación de Chat
 
+## Ejecución
+Para descartar problemas de ejecución, utilice los archivos dentro de la carpeta Vbox Code, dentro estarán los main.c del servidor y el cliente preparado para conectarse a AWS.
+
 ## Introducción
 
 En este proyecto, se desarrolló un sistema de comunicación basado en **sockets de Berkeley** utilizando el lenguaje de programación **C**. El objetivo principal fue construir una arquitectura cliente-servidor capaz de permitir la comunicación en tiempo real entre múltiples clientes.
