@@ -2,7 +2,7 @@
 
 ## Ejecución
 Para descartar problemas de ejecución, utilice los archivos dentro de la carpeta Vbox Code, dentro estarán los main.c del servidor y el cliente preparado para conectarse a AWS.
-# Video: https://youtu.be/QTTMTcs-n1c
+## Video: https://youtu.be/QTTMTcs-n1c
 
 ## Introducción
 
